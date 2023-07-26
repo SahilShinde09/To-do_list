@@ -17,7 +17,7 @@ body{
 
 h2{
   padding-left: 70px;
-  font-family: cursive;
+  font-family: Consolas;
 }
 
 button{
@@ -26,7 +26,7 @@ height: 30px;
 background-color: orange;
 border-width: 0;
 border-radius: 30px;
-font-family: cursive;
+font-family: Consolas;
 }
 button:hover{
   color: white;
